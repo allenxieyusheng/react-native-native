@@ -5,6 +5,7 @@
  * @flow
  */
 
+```js
 import React, { Component } from 'react';
 import {
   Platform,
@@ -99,5 +100,6 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
 });
-  
+
+```  
 注释：添加module时候的build.gradle的SDK要和主工程的SDK相同最好
