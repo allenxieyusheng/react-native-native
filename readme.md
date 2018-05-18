@@ -103,3 +103,6 @@ const styles = StyleSheet.create({
 
 ```  
 注释：添加module时候的build.gradle的SDK要和主工程的SDK相同最好
+
+
+npm i react-native-native
